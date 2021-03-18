@@ -1,5 +1,5 @@
-# UserDIO
-<p>I'm DIO(Yes this is a jojo reference). I know many <em>different languages</em> as <strong>Python</strong> and <strong>JavaScript</strong>.<br> But <strong>Python is my favorite</strong><br>And now look at my</p>
+# UserLiquid
+<p>I'm Liquid. I know many <em>different languages</em> as <strong>Python</strong> and <strong>JavaScript</strong>.<br> But <strong>Python is my favorite</strong><br>And now look at my</p>
 
 ## STATS
 
